@@ -2,7 +2,7 @@ package main
 
 import (
 	"flag"
-	log "github.com/sirupsen/logrus"
+	log "github.com/Sirupsen/logrus"
 	"github.com/syndtr/goleveldb/leveldb"
 )
 
