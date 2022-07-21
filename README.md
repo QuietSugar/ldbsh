@@ -5,7 +5,7 @@ A simple LevelDB cli utility.
 ## Installation
 
 ```
-go get github.com/kanosaki/ldbsh
+go install github.com/QuietSugar/ldbsh@latest
 ```
 
 ## Interactive mode
